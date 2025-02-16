@@ -89,13 +89,18 @@ I specialize in **Java, Spring Boot, React.js, Node.js, and MongoDB**, with a st
   <img src="https://streak-stats.demolab.com?user=Abdul5786&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdul5786&show_icons=true&theme=dark&count_private=true&hide_border=false&include_all_commits=true" height="180" alt="GitHub Stats" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul5786&layout=compact&theme=dark" height="180" alt="Most Used Languages" />
 </div>
+
 
 ###
 
