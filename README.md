@@ -90,9 +90,12 @@ I specialize in **Java, Spring Boot, React.js, Node.js, and MongoDB**, with a st
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul5786&show_icons=true&theme=dark&count_private=true&hide_border=false&include_all_commits=true&custom_title=Commits This Month" height="180" alt="Commits This Month" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul5786&show_icons=true&theme=dark&count_private=true&hide_border=false&include_all_commits=true" height="180" alt="GitHub Stats" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul5786&layout=compact&theme=dark" height="180" alt="Most Used Languages" />
+</div>
 
 ###
 
