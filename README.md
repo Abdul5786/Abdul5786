@@ -67,11 +67,11 @@ I specialize in **Java, Spring Boot, React.js, Node.js, and MongoDB**, with a st
 
 ###
 
-- 🔹 [Learning Management System (LMS)](https://github.com/Abdul5786/LMS) - A robust LMS built with **Java, Spring Boot & React.js**.
-- 🔹 [Bookstore App](https://github.com/Abdul5786/Bookstore-App) - A **React.js & Node.js** application for managing books.
-- 🔹 [Vlogging App](https://github.com/Abdul5786/Vlogging-App) - A social platform for vlogging (**In Progress**).
+- 🔹 [Learning Management System (LMS)](https://github.com/Abdul5786/LMS) - A robust **Learning Management System** developed using **Java, Spring Boot, and React.js**. This application provides features like **user authentication, course management, progress tracking, and interactive quizzes**. It is designed to enhance online education by offering a structured learning experience.
 
-###
+- 🔹 [Bookstore App](https://github.com/Abdul5786/Bookstore-App) - A **React.js & Node.js** powered application for managing books efficiently. The app allows users to **browse books, add them to the cart, purchase books, and manage orders**. It integrates **MongoDB** as the database and provides a seamless user experience with an intuitive UI.
+
+- 🔹 [Vlogging App](https://github.com/Abdul5786/Vlogging-App) - A social platform tailored for vloggers (**In Progress**). Built using **React.js, Node.js, and MongoDB**, this app enables users to **upload, like, comment, and share videos**. Future updates will include **real-time notifications, user subscriptions, and enhanced video recommendations** to boost engagement.
 
 <h3 align="left">🔥 My Stats :</h3>
 
@@ -89,6 +89,13 @@ I specialize in **Java, Spring Boot, React.js, Node.js, and MongoDB**, with a st
 
 📧 Email: [ak882710@gmail.com](mailto:ak882710@gmail.com)
 
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+<div align="left">
+  <a href="https://www.linkedin.com/in/abdul-khaliq-736724201/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
+  
+  <a href="https://x.com/AbdulKh46718130" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo" />
+  </a>
+</div>
 
-🚀 Portfolio: [Your Portfolio Link](https://your-portfolio.com)
