@@ -26,11 +26,20 @@
 
 ###
 
-<p align="left">I'm a Full Stack Developer from Delhi, India.<br><br>- 🔭 I’m currently working as a **Java & Node.js Full Stack Developer**<br>- 📚 I'm continuously learning and improving my skills in **Scalable Applications Development**<br>- ⚡ In my free time, I love working on side projects and exploring new technologies.</p>
+<p align="left">
+I'm a **Full Stack Developer** from **Delhi, India**, with **1.5 years** of experience in building **scalable applications**. 
+I specialize in **Java, Spring Boot, React.js, Node.js, and MongoDB**, with a strong focus on **high-performance, user-focused solutions**.<br><br>
+
+- 🎓 I completed **BCA and MCA** from **Jamia Hamdard University (2024)**.
+- 🔭 I’m currently working as a **Java & Node.js Full Stack Developer**.
+- 💡 Experienced in building **Learning Management Systems (LMS), Bookstore App, and Vlogging App**.
+- 📚 Continuously learning and improving my skills in **scalable application development**.
+- ⚡ In my free time, I enjoy working on side projects and exploring new technologies.
+</p>
 
 ###
 
-<h3 align="left">🛠 Language and Tools</h3>
+<h3 align="left">🛠 Tech Stack & Tools</h3>
 
 ###
 
@@ -54,6 +63,16 @@
 
 ###
 
+<h3 align="left">📌 Featured Projects</h3>
+
+###
+
+- 🔹 [Learning Management System (LMS)](https://github.com/Abdul5786/LMS) - A robust LMS built with **Java, Spring Boot & React.js**.
+- 🔹 [Bookstore App](https://github.com/Abdul5786/Bookstore-App) - A **React.js & Node.js** application for managing books.
+- 🔹 [Vlogging App](https://github.com/Abdul5786/Vlogging-App) - A social platform for vlogging (**In Progress**).
+
+###
+
 <h3 align="left">🔥 My Stats :</h3>
 
 ###
@@ -63,3 +82,13 @@
 </div>
 
 ###
+
+<h3 align="left">📫 Connect with Me</h3>
+
+###
+
+📧 Email: [ak882710@gmail.com](mailto:ak882710@gmail.com)
+
+💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+
+🚀 Portfolio: [Your Portfolio Link](https://your-portfolio.com)
