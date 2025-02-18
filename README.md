@@ -83,7 +83,11 @@ I specialize in **Java, Spring Boot, React.js, Node.js, and MongoDB**, with a st
 
 <h3 align="left">🔥 My Stats :</h3>
 
-###
+###  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdul5786&theme=dark" height="220" alt="GitHub Streak" />
+</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Abdul5786&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
