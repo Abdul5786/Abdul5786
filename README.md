@@ -89,12 +89,6 @@ I specialize in **Java, Spring Boot, React.js, Node.js, and MongoDB**, with a st
   <img src="https://streak-stats.demolab.com?user=Abdul5786&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
-### 🔥 My LeetCode Streak:
-![LeetCode Streak](https://raw.githubusercontent.com/abdulkhaliq123/LeetCode-Streak-Tracker/main/streak.svg)
-
-
-
-
 <br>
 
 <div align="center">
