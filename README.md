@@ -35,8 +35,7 @@
 ###
 
 <p align="left">
-I'm a **Full Stack Developer** from **Delhi, India**, with **1.5 years** of experience in building **scalable applications**. 
-I specialize in **Java, Spring Boot, React.js, Node.js, and MongoDB**, with a strong focus on **high-performance, user-focused solutions**.<br><br>
+I’m a Java backend developer with 2+ years of experience specializing in Java and Spring Boot. I focus on building scalable backend systems, secure RESTful APIs, and writing clean, maintainable code. Proficient in Data Structures & Algorithms (DSA), I enjoy solving complex problems and continuously improving my skills.**.<br><br>
 
 - 🎓 I completed **BCA and MCA** from **Jamia Hamdard University (2024)**.
 - 🔭 I’m currently working as a **Java & Node.js Full Stack Developer**.
